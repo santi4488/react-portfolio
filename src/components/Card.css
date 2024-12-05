@@ -1,0 +1,15 @@
+.Card {
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    align-items: flex-start !important;
+}
+
+.Card > .Card-Body {
+    padding: 8px;
+    align-items: flex-start;
+}
+
+.Card > .Card-Img {
+    padding: 0;
+}
